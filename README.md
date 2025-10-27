@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I'm Shubh Gupta
 
-<!--
-**imsubh14/imsubh14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A passionate Software Engineer and Java Developer from India
+🌱 Currently learning Core Java, SQL, and Python
+🚀 Building hands-on projects like an Online Education Platform and a Personal Expense Tracker
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python, SQL, Java, HTML, CSS
+Databases: MySQL, Oracle
+Tools: VS Code, Git, GitHub
+Concepts: OOP, JDBC, Exception Handling
+Interests: Frontend & Backend Development, Database Management, and Web Applications
+
+
+📫 Connect With Me
+
+💼 LinkedIn - https://www.linkedin.com/in/shubh-gupta-363296254/
+
+📧 Email: samkeshari12@email.com
+
+⭐ “Keep learning, keep coding, keep growing!”
