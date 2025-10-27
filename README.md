@@ -1,10 +1,13 @@
 👋 Hi, I'm Shubh Gupta
 
-💻 A passionate Software Engineer and Java Developer from India
+💻 A passionate Software Engineer & Full-Stack Developer from India
 
-🌱 Currently learning Python, SQL, Core Java, Flask
+🌱 Skilled in Python, SQL, and Flask, and currently learning Core Java and Software Testing
 
-🚀 Building hands-on projects like an Online Education Platform and a Personal Expense Tracker
+🚀 Building real-world projects like an Online Education Platform and a Personal Expense Tracker
+
+🎯 Focused on mastering Backend Development, Testing, and Database Management
+
 
 🛠️ Tech Stack
 
